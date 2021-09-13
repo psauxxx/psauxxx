@@ -26,3 +26,4 @@ Webapp Hacking
 Reverse Engineering
 Exploit Development
 📫 How to reach me: 709017406818746368 <- [Discord ID]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
