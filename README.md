@@ -26,6 +26,6 @@ Webapp Hacking
 Reverse Engineering
 Exploit Development
 📫 How to reach me: 709017406818746368 <- [Discord ID]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![psauxxx stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
