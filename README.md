@@ -27,3 +27,5 @@ Reverse Engineering
 Exploit Development
 📫 How to reach me: 709017406818746368 <- [Discord ID]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
